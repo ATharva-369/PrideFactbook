@@ -8,7 +8,7 @@ An android app written in Kotlin using the Jetpack Compose Framework. (Made as a
 
 - [Features](#features)
 - [Screenshots](#screenshots)
-
+- [Download](#download)
 
 ## Features
 
@@ -23,3 +23,6 @@ An android app written in Kotlin using the Jetpack Compose Framework. (Made as a
 <img src="/AppScreenshots/lightModeFactOpened.png" width="400">
 <img src="/AppScreenshots/darkModeFactOpened.png" width="400">
 
+## Download
+
+<a href="/pridefactbook.apk"> Click here to download </a>
