@@ -1,6 +1,7 @@
 # PrideFactbook
 
 A factbook with 30 different historical and informative facts about the LGBTQIA+ community; one for every single day in the pride month <3.
+
 An android app written in Kotlin using the Jetpack Compose Framework. (Made as a project for the 'Android Basics With Compose' course)
 
 ## Table of Contents
@@ -18,4 +19,5 @@ An android app written in Kotlin using the Jetpack Compose Framework. (Made as a
 ## Screenshots
 
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
