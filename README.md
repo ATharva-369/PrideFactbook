@@ -1,4 +1,4 @@
-# PrideFactbook
+# Pride Factbook
 
 A factbook with 30 different historical and informative facts about the LGBTQIA+ community; one for every single day in the pride month <3.
 
