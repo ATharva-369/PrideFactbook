@@ -25,4 +25,4 @@ An android app written in Kotlin using the Jetpack Compose Framework. (Made as a
 
 ## Download
 
-<a href="/pridefactbook.apk"> Click here to download </a>
+<a href="https://github.com/ATharva-369/PrideFactbook/raw/main/pridefactbook.apk"> Click here to download </a>
