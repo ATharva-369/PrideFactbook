@@ -18,8 +18,8 @@ An android app written in Kotlin using the Jetpack Compose Framework. (Made as a
 
 ## Screenshots
 
-<img src="/AppScreenshots/lightModeMain.png" width="100">
-<img src="/AppScreenshots/darkModeMain.png" width="100">
-<img src="/AppScreenshots/lightModeFactOpened.png" width="100">
-<img src="/AppScreenshots/darkModeFactOpened.png" width="100">
+<img src="/AppScreenshots/lightModeMain.png" width="400">
+<img src="/AppScreenshots/darkModeMain.png" width="400">
+<img src="/AppScreenshots/lightModeFactOpened.png" width="400">
+<img src="/AppScreenshots/darkModeFactOpened.png" width="400">
 
